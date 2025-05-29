@@ -70,6 +70,9 @@
 
 <hr/>
 
+![GitHub Snake Animation](https://github.com/RizkiRamadhani561/RizkiRamadhani561/blob/output/github-snake.svg)
+
+
 
 <p align="justify">
   <a href="https://github.com/RizkiRamadhani56">
