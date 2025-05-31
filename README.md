@@ -70,10 +70,6 @@
 
 <hr/>
 
-![GitHub Snake Animation](https://github.com/RizkiRamadhani561/RizkiRamadhani561/blob/output/github-snake.svg)
-
-
-
 <p align="justify">
   <a href="https://github.com/RizkiRamadhani56">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=RizkiRamadhani561&theme=radical&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="Rizki Ramadhani GitHub streak"/>
